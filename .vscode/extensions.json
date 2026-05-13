@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "cyrilletuzi.angular-schematics",
+        "angular.ng-template",
+        "ionutvmi.path-autocomplete",
+        "gydunhn.typescript-essentials",
+        "dbaeumer.vscode-eslint",
+        "daniel-duc.daniel-material-palenight-theme",
+        "yusifaliyevpro.vscicons",
+        "eamodio.gitlens"
+    ]
+}
